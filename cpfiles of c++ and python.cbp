@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="file.cpp" />
+		<Unit filename="magnet.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
